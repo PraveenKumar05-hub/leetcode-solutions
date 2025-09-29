@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -39,5 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
