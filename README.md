@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0507-perfect-number) |
 ## Array
 |  |
 | ------- |
