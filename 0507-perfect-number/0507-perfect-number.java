@@ -9,8 +9,6 @@ class Solution {
         if(num == sum){
             return true;
         }
-        else{
-            return false;
-        }
+        return false;
     }
 }
