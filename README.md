@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0507-perfect-number) |
+| [1025-divisor-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1025-divisor-game) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Array
 |  |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
