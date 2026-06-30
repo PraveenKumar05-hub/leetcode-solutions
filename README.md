@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1025-divisor-game) |
@@ -68,9 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
