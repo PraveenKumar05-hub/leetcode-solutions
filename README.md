@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1952-three-divisors](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2651-calculate-delayed-arrival-time](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [3099-harshad-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/3099-harshad-number) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
