@@ -1,28 +1,14 @@
-import java.util.Scanner;
 class Solution {
     public boolean isPalindrome(int x) {
-        int original=x;
-        int reversed=0;
+        int rev = 0;
+        int org = x;
 
         while(x>0){
-            int digit=x%10;
-            reversed=reversed*10+digit;
-            x=x/10;
+            int LD = x % 10;
+            rev = rev * 10 + LD;
+            x = x / 10;
         }
-        return original==reversed;
-        
-    }
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        System.out.println("x = ");
-        int y = sc.nextInt();
-        Solution sol = new Solution();
-        if(sol.isPalindrome(y)){
-            System.out.println("true");
-        }
-        else{
-            System.out.println("false");
-        }
-        sc.close();
+        return org==rev;
+
     }
 }
