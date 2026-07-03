@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1952-three-divisors) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
