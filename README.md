@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
