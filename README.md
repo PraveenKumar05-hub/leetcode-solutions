@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0792-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
