@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/PraveenKumar05-hub/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
